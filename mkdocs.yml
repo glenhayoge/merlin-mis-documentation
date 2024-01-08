@@ -1,4 +1,4 @@
-site_name: MERLiN-MIS Documentation
+site_name: MERLiN-Documentation
 theme:
   name: material
   features:
