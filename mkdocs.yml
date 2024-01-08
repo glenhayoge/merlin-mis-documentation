@@ -1,5 +1,6 @@
-site_name: MERLiN-Documentation
+site_name: Documentation
 theme:
+  logo: assets/merlin_logo.png
   name: material
   features:
     - navigation.tabs
@@ -11,29 +12,33 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.footer
+
   language: en
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/lightbulb 
         name: Switch to dark mode
-      primary: teal
+      primary: black
       accent: purple 
     - scheme: slate 
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb-outline
         name: Switch to light mode    
-      primary: teal
+      primary: black
       accent: lime
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/glenhayoge
-    - icon: fontawesome/brands/twitter
+    - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/ghayoge
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/glenhayoge/
+      link: www.linkedin.com/in/glenhayoge
+  
+
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -48,9 +53,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/glenhayoge"  target="_blank" rel="noopener">Glen Hayoge</a>
+  &copy; 2018-2024 <a href="https://github.com/glenhayoge"  target="_blank" rel="noopener">Glen Hayoge</a>
+
