@@ -37,6 +37,7 @@ extra:
       link: https://twitter.com/ghayoge
     - icon: fontawesome/brands/linkedin
       link: www.linkedin.com/in/glenhayoge
+  generator: false
   
 
 

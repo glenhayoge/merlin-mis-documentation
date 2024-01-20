@@ -21,3 +21,7 @@ TBA: Steps
 ## Events and Calendars
 
 TBA: Steps
+
+## Release notes
+
+TBA: Steps

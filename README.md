@@ -14,7 +14,7 @@ Merlin is a web application built using Django and Tailwind CSS, providing a sea
 
 ## Developer
 
-This project was concieved and developed by - [Glen G Hayoge](https://glenh.me) for Fresh Produce Development Agency (FPDA).
+This project was concieved and developed by - [Glen G Hayoge](https://glensea.com) for Fresh Produce Development Agency (FPDA).
 
 ## Tech Stack
 
