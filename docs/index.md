@@ -10,7 +10,7 @@ A web based Management Information System and Monitoring, Evaluation & Learning 
 
 MERLiN is an abbreviation name that stands for Mornitoring, Evaluation, Research, Learning & Innovation.  A tailored information managment system for Fresh Produce Development Agency in Papua New Guinea.
 
-## Who made it possible
+## **Who made it possible**
 
 **MERLIN** is was concieved and implement to complement FPDA's robust planning and reporting workflows. It is an effort to digitise manual and routine operational processess and requirements
 
